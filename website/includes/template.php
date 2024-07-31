@@ -87,7 +87,7 @@
                 <a class="nav-link text-white" >Score:&nbsp;' . $userScore . '</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" style = "color: indianred" href="' . BASE_URL .'/pages/user/logout.php">Logout</a></a>
+                <a class="nav-link" style = "color: indianred" href="' . BASE_URL .'pages/user/logout.php">Logout</a></a>
             </li>
         </ul>
         ';
